@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**ribeiromathias/ribeiromathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mathias Ribeiro 🏼‍🇧🇷
 
-Here are some ideas to get you started:
+I graduated in Accounting but since 2019 I have been studying and working as a **Front-end** developer.  💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like solving problems and builting websites with the best possible usability. Always open to new challenges and ready to face changes.
+
+### 🌍 "O importante é não parar de questionar. A curiosidade tem a sua própria razão para existir." 🧠
+
+- 📍 From Bahia living in Rio de Janeiro
+- 💻 FullStack Developer at [Le Wagon](https://www.lewagon.com/)
+- 💻 Front-End engineer at [Instituto Infnet](https://www.infnet.edu.br/infnet/)
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mathias-ribeiro/)](https://www.linkedin.com/in/mathias-ribeiro/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matramp/)](https://www.instagram.com/matramp/)
