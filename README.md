@@ -14,4 +14,4 @@ I like solving problems and builting websites with the best possible usability. 
 
 Reach me out 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mathias-ribeiro/)](https://www.linkedin.com/in/mathias-ribeiro/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matramp/)](https://www.instagram.com/matramp/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mathias-ribeiro/)](https://www.linkedin.com/in/mathias-ribeiro/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matramp/)](https://www.instagram.com/matramp/)
