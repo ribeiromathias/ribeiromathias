@@ -6,7 +6,7 @@ I graduated in Accounting but since 2019 I have been studying and working as a *
 
 I like solving problems and builting websites with the best possible usability. Always open to new challenges and ready to face changes.
 
-### 🌍 "O importante é não parar de questionar. A curiosidade tem a sua própria razão para existir." 🧠
+### 🌍 "The important thing is not to stop questioning. Curiosity has its own reason for existing." 🧠
 
 - 📍 From Bahia living in Rio de Janeiro
 - 💻 FullStack Developer at [Le Wagon](https://www.lewagon.com/)
