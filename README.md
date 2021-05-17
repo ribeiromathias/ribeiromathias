@@ -9,7 +9,7 @@ I like solving problems and builting websites with the best possible usability. 
 ### 🌍 "The important thing is not to stop questioning. Curiosity has its own reason for existing." 🧠
 
 - 📍 From Bahia living in Rio de Janeiro
-- 💻 FullStack Developer course at [Le Wagon](https://www.lewagon.com/)
+- 💻 FullStack Developer bootcamp at [Le Wagon](https://www.lewagon.com/)
 - 💻 Front-End Developer course at [Instituto Infnet](https://www.infnet.edu.br/infnet/)
 
 Reach me out 👇🏼
