@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey! 👋
 
 My name is Mathias Ribeiro 🏼‍🇧🇷
 
